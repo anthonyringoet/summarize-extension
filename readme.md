@@ -4,6 +4,8 @@
 
 You can load the extension in Firefox using the `about:debugging` page as a temporary add-on for testing.
 
+The code was written with ChatGPT as my sidekick, which was a pretty cool experience.
+
 ### Usage
 
 1. Install the extension in Firefox using the `about:debugging` page for testing.
