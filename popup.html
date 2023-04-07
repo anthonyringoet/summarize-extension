@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <button id="summarize" disabled>Summarize selection</button>
+    <p class="alert" id="api-key-message" hidden>Please set your OpenAI API key in the extension settings.</p>
+    <p class="alert" id="no-text-message" hidden>Please select some text on the page to summarize.</p>
+    <p id="loading-indicator" hidden>Summarizing... Please wait.</p>
+    <script src="popup.js"></script>
+  </body>
+</html>
